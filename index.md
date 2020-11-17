@@ -1,39 +1,19 @@
 ## Allerton, the Bronx
 
+<img src="framedMap.png">
+
+Demographics:
+Median age: 40
+Population: ~74000
+By age: 21% 18 or under, 23% 18 to 35, 39% 35 to 65, 16% over 65
+51% black, 29% Hispanic, 10% white, 6% other ethnicities
+~85% have at least a GED, 25% of whom have a bachelor’s degree.
+40% of population are foreign born, 70% of which are from Latin America
+91% employment rate with a median household income of $63,000, however ~15% of thepopulation are below the poverty line.
+
+Allerton receives an average rating from our rankings. Though it has many local points of interest for airbnb customers to experience and sufficient methods of public transportation to go to these points, the neighborhood is not very safe and has a history of higher levels of crime compared to the rest of the country.
+
 <dl>
 <iframe src="allertonLocations.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JasonWu00/HC10-Allerton/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
