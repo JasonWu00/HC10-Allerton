@@ -13,6 +13,10 @@ By age: 21% 18 or under, 23% 18 to 35, 39% 35 to 65, 16% over 65
 
 Allerton receives an average rating from our rankings. Though it has many local points of interest for airbnb customers to experience and sufficient methods of public transportation to go to these points, the neighborhood is not very safe and has a history of higher levels of crime compared to the rest of the country.
 
+##### HC7/8 observations
+
+The price values for airbnb locations in Allerton are similar to those of all 4 neighborhoods assigned to my group and most of the Bronx neighborhoods, however it appears that Allerton has one outlier in the form of the 450 datapoint that skews its mean and standard deviation slightly higher. Allerton’s airbnb prices are around 70 to 100 dollars per day, which is similar to that of Bronx and lower than that of all of NYC (100 to 175). Considering our neighborhoods had a relatively poor safety rating (at around a C or so), it would make sense that the prices are lower. The owners in the Bronx and in Allerton are aware that customers are not as willing to rent an airbnb in less secure neighborhoods and will have to lower prices to make their offers seem more appealing.
+
 <dl>
 <iframe src="allertonLocations.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
