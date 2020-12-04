@@ -20,7 +20,13 @@ The price values for airbnb locations in Allerton are similar to those of all 4 
 See attached plots for a more detailed display of the comparison between costs in Allerton and the other neighborhoods, as well as between the Bronx and the other boroughs.
 
 <img src="meanPriceBronxNeighborhoods.png">
+
+Here, we see that the mean prices between the four neighborhoods we chose (highlighted in orange) are below a small majority of the neighborhoods in the Bronx. This conforms to our observations in HC7/8.
+
 <img src="meanPriceMyBronxNeighborhoods.png">
+
+Compared to each other, the four neighborhoods are similar in their average prices. While Fordham is visibly lower in price, it is only an approximately $10 difference.
+
 <img src="availabilityFiveBoroughs.png">
 
 ##### airbnb locations in Allerton
